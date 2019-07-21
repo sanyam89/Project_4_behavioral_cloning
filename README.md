@@ -94,7 +94,8 @@ Y-axis = number of sample
 
 ## Final trained model performance
 
-I trained the model for 5 Epochs which gave me good results, without over
+I trained the model for 5 Epochs which gave me good results, without overfitting or underfitting.
+
 975/975 [==============================] - 413s 424ms/step - loss: 0.0787 - val_loss: 0.0672
 
 Epoch 2/5
